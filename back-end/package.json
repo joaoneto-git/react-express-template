@@ -1,0 +1,23 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "beck end da aplicação",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoneto-git/enviodesms.git"
+  },
+  "author": "joao cavalcante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoneto-git/enviodesms/issues"
+  },
+  "homepage": "https://github.com/joaoneto-git/enviodesms#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
